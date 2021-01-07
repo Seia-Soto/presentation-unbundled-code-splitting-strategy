@@ -1,1 +1,3 @@
-# presentation-unbundled-code-splitting-strategy
+# *Unbundled* code splitting strategy
+
+by @Seia-Soto.
